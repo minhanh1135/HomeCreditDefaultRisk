@@ -18,4 +18,16 @@ In the dataset, there is a significant class imbalance, with 8.07\% of clients e
 
 ## Data Preparation
 
+Variables are computed based on maximum, minimum, average, etc. within a specific time range (N) for each customer ID. The illustration of this process is shown in the figure below: 
+![image](https://github.com/minhanh1135/HomeCreditDefaultRisk/assets/64486608/5a62dec4-df73-4dbe-9d3a-cba28693142c)
+
+Feature selection method : Step-wise selection 
+
+## Learning Techniques:
+
+Algorithm used: Logisitc Regression, Light Gradient Boosting Machines
+
+
+
+
 
